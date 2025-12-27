@@ -1,0 +1,11 @@
+# Ignore development artifacts
+**/node_modules
+**/bin
+**/obj
+**/.angular
+**/.vscode
+.git
+.github
+npm-debug.log*
+yarn-error.log*
+.DS_Store

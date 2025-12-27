@@ -1,0 +1,7 @@
+{
+  "clientId": "918e9073-65e8-4947-9fee-321eed882333",
+  "clientSecret": "aVx8Q~NEKRCaxJkRJ~kHno_zktrOI3BkVjriOawW",
+  "subscriptionId": "18b3973d-f9bf-498d-a54d-f708131d4d48",
+  "tenantId": "f5c0e984-039d-4eeb-ab0b-ee80c78b4518",
+  "resourceManagerEndpointUrl": "https://management.azure.com/"
+}
