@@ -3,7 +3,7 @@ name: Build & Push Docker Image to ACR
 on:
   push:
     branches:
-      - main
+      - dev
 
 jobs:
   build:
