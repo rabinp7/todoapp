@@ -4,7 +4,7 @@
 
 # ---------- 1) Build Angular ----------
 FROM node:20-alpine AS frontend-build
-WORKDIR /src/frontend
+WORKDIR /src/frontend 
 
 COPY frontend/package*.json ./
 RUN npm ci
